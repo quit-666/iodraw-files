@@ -7,6 +7,12 @@
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kF1QRGGTCas2NxP19SHh-1" target="mPdGmm0DW6NAbyN2iW4m-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mPdGmm0DW6NAbyN2iW4m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kF1QRGGTCas2NxP19SHh-1" target="kF1QRGGTCas2NxP19SHh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPdGmm0DW6NAbyN2iW4m-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kF1QRGGTCas2NxP19SHh-1" target="mPdGmm0DW6NAbyN2iW4m-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kF1QRGGTCas2NxP19SHh-1" value="基于YOLO11的蜜蜂识别检测系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="320" height="40" as="geometry" />
         </mxCell>
