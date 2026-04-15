@@ -13,7 +13,7 @@
         <mxCell id="O-5UnJHbUPvahxVirUYu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O-5UnJHbUPvahxVirUYu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O-5UnJHbUPvahxVirUYu-4" value="后处理与结果解析NMS/置信度筛选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-5" value="调用YOLO11模型执行目标检测推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
