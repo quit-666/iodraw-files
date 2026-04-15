@@ -55,6 +55,9 @@
         <mxCell id="YCrsAmIPGsnZ260KFvGg-11" value="检测结果输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YCrsAmIPGsnZ260KFvGg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCrsAmIPGsnZ260KFvGg-12" target="YCrsAmIPGsnZ260KFvGg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-12" value="实际推理检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
         </mxCell>
