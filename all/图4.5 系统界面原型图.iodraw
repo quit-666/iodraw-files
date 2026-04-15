@@ -1,0 +1,49 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="xzOlTllvAFValVLJT9yZ">
+    <mxGraphModel dx="1213" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6onNx0ZDis8fRUI4DYl4-2" target="6onNx0ZDis8fRUI4DYl4-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-2" value="输入图像640×640/960" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6onNx0ZDis8fRUI4DYl4-3" target="6onNx0ZDis8fRUI4DYl4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6onNx0ZDis8fRUI4DYl4-3" target="6onNx0ZDis8fRUI4DYl4-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-3" value="Backbone特征提取网络" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6onNx0ZDis8fRUI4DYl4-4" target="6onNx0ZDis8fRUI4DYl4-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6onNx0ZDis8fRUI4DYl4-4" target="6onNx0ZDis8fRUI4DYl4-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-4" value="Neck特征融合网络" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6onNx0ZDis8fRUI4DYl4-5" target="6onNx0ZDis8fRUI4DYl4-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-5" value="Detect Head检测头" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-6" value="浅层特征提取深层语义提取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-7" value="多尺度特征融合&lt;span style=&quot;background-color: initial;&quot;&gt;小目标信息增强&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6onNx0ZDis8fRUI4DYl4-8" value="边界框回归&lt;div&gt;类别预测&lt;/div&gt;&lt;div&gt;置信度输出&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
