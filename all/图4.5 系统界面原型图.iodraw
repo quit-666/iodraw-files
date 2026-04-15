@@ -31,7 +31,7 @@
         <mxCell id="r7s5-XNtlgcck4G8b5Fu-12" value="保存结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r7s5-XNtlgcck4G8b5Fu-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r7s5-XNtlgcck4G8b5Fu-13" value="退出系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="520" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r7s5-XNtlgcck4G8b5Fu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
