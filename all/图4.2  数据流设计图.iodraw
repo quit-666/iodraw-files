@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YCrsAmIPGsnZ260KFvGg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCrsAmIPGsnZ260KFvGg-1" target="YCrsAmIPGsnZ260KFvGg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-1" value="原始图像/视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
         </mxCell>
@@ -19,8 +22,14 @@
         <mxCell id="YCrsAmIPGsnZ260KFvGg-6" value="数据集划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YCrsAmIPGsnZ260KFvGg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCrsAmIPGsnZ260KFvGg-7" target="YCrsAmIPGsnZ260KFvGg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-7" value="数据标注与清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YCrsAmIPGsnZ260KFvGg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCrsAmIPGsnZ260KFvGg-8" target="YCrsAmIPGsnZ260KFvGg-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-8" value="数据采集与整理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="80" height="40" as="geometry" />
@@ -28,7 +37,7 @@
         <mxCell id="YCrsAmIPGsnZ260KFvGg-9" value="性能指标输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YCrsAmIPGsnZ260KFvGg-11" value="测试集评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCrsAmIPGsnZ260KFvGg-11" value="检测结果输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-12" value="实际推理检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
