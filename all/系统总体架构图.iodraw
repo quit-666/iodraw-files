@@ -13,14 +13,11 @@
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-1" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mPdGmm0DW6NAbyN2iW4m-2" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="260" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-3" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="270" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-4" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-5" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="80" height="40" as="geometry" />
