@@ -4,26 +4,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O-5UnJHbUPvahxVirUYu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5UnJHbUPvahxVirUYu-1" target="O-5UnJHbUPvahxVirUYu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-1" value="&lt;br&gt;启动系统程序&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-2" value="保存结果或退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="O-5UnJHbUPvahxVirUYu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5UnJHbUPvahxVirUYu-3" target="O-5UnJHbUPvahxVirUYu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-3" value="显示检测结果框/标签/数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5UnJHbUPvahxVirUYu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5UnJHbUPvahxVirUYu-4" target="O-5UnJHbUPvahxVirUYu-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-4" value="后处理与结果解析NMS/置信度筛选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="O-5UnJHbUPvahxVirUYu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5UnJHbUPvahxVirUYu-5" target="O-5UnJHbUPvahxVirUYu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-5" value="调用YOLO11模型执行目标检测推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5UnJHbUPvahxVirUYu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5UnJHbUPvahxVirUYu-6" target="O-5UnJHbUPvahxVirUYu-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-6" value="输入待检测数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="O-5UnJHbUPvahxVirUYu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5UnJHbUPvahxVirUYu-7" target="O-5UnJHbUPvahxVirUYu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-7" value="选择输入模式图片/视频/摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5UnJHbUPvahxVirUYu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5UnJHbUPvahxVirUYu-8" target="O-5UnJHbUPvahxVirUYu-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-8" value="加载最终模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="80" height="40" as="geometry" />
