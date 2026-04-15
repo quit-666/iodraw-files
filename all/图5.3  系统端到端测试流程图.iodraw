@@ -7,10 +7,10 @@
         <mxCell id="O-5UnJHbUPvahxVirUYu-1" value="&lt;br&gt;启动系统程序&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O-5UnJHbUPvahxVirUYu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O-5UnJHbUPvahxVirUYu-2" value="保存结果或退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O-5UnJHbUPvahxVirUYu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O-5UnJHbUPvahxVirUYu-3" value="显示检测结果框/标签/数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-4" value="后处理与结果解析NMS/置信度筛选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
