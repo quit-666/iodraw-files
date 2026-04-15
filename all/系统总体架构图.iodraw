@@ -7,7 +7,7 @@
         <mxCell id="kF1QRGGTCas2NxP19SHh-1" value="基于YOLO11的蜜蜂识别检测系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kF1QRGGTCas2NxP19SHh-3" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kF1QRGGTCas2NxP19SHh-3" value="模型训练模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-1" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-3" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mPdGmm0DW6NAbyN2iW4m-4" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mPdGmm0DW6NAbyN2iW4m-4" value="推理检测模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-5" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
