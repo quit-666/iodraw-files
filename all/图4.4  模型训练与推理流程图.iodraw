@@ -13,10 +13,10 @@
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-3" value="数据采集与标注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TK1oIUtfKdeGTjl-XWKr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-4" value="输出最优模型 best.pt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TK1oIUtfKdeGTjl-XWKr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-5" value="验证集评估与早停" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-6" value="模型训练与参数优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
