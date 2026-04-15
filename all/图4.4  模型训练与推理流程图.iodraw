@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TK1oIUtfKdeGTjl-XWKr-1" target="TK1oIUtfKdeGTjl-XWKr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TK1oIUtfKdeGTjl-XWKr-1" target="TK1oIUtfKdeGTjl-XWKr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-1" value="蜜蜂检测系统流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="160" height="40" as="geometry" />
         </mxCell>
@@ -31,7 +37,7 @@
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-9" value="模型推理流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TK1oIUtfKdeGTjl-XWKr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-10" value="绘制检测框与标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-11" value="NMS后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +52,7 @@
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-14" value="加载 best.pt 模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TK1oIUtfKdeGTjl-XWKr-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-16" value="显示/保存检测结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="760" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
