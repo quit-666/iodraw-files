@@ -31,7 +31,7 @@
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-9" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mPdGmm0DW6NAbyN2iW4m-10" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mPdGmm0DW6NAbyN2iW4m-10" value="图片/视频/摄像头输入推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-11" value="数据训练best.pt生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
