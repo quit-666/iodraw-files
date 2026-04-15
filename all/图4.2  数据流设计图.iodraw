@@ -8,16 +8,16 @@
           <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-3" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-4" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-5" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="190" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-6" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-7" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
