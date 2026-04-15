@@ -22,7 +22,7 @@
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TK1oIUtfKdeGTjl-XWKr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-7" value="加载YOLO11预训练权重&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-8" value="数据预处理与划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
