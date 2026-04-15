@@ -61,6 +61,9 @@
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-9" value="模型推理流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TK1oIUtfKdeGTjl-XWKr-10" target="TK1oIUtfKdeGTjl-XWKr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-10" value="绘制检测框与标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="680" width="80" height="40" as="geometry" />
         </mxCell>
