@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r7s5-XNtlgcck4G8b5Fu-1" value="图像/视频检测结果显示区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r7s5-XNtlgcck4G8b5Fu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="560" height="440" as="geometry" />
         </mxCell>
         <mxCell id="r7s5-XNtlgcck4G8b5Fu-5" value="基于YOLO11的蜜蜂识别检测系统界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="r7s5-XNtlgcck4G8b5Fu-16" value="检测结果显示区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r7s5-XNtlgcck4G8b5Fu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
