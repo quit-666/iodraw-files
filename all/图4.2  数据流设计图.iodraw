@@ -28,6 +28,12 @@
         <mxCell id="YCrsAmIPGsnZ260KFvGg-9" value="性能指标输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="640" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YCrsAmIPGsnZ260KFvGg-11" value="测试集评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="570" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YCrsAmIPGsnZ260KFvGg-12" value="测试集评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
