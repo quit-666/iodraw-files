@@ -11,16 +11,16 @@
           <mxGeometry x="260" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-1" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-3" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mPdGmm0DW6NAbyN2iW4m-4" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mPdGmm0DW6NAbyN2iW4m-5" value="功能性需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="300" width="80" height="40" as="geometry" />
+        <mxCell id="mPdGmm0DW6NAbyN2iW4m-5" value="数据管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
