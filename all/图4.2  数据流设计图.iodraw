@@ -31,19 +31,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-5" value="YOLO11模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="200" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=10;" parent="1" source="YCrsAmIPGsnZ260KFvGg-6" target="YCrsAmIPGsnZ260KFvGg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-6" value="数据集划分" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=10;" parent="1" source="YCrsAmIPGsnZ260KFvGg-7" target="YCrsAmIPGsnZ260KFvGg-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-7" value="数据标注与清洗" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=10;" parent="1" source="YCrsAmIPGsnZ260KFvGg-8" target="YCrsAmIPGsnZ260KFvGg-7" edge="1">
           <mxGeometry relative="1" as="geometry">
