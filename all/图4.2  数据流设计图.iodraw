@@ -46,10 +46,15 @@
           <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=10;" parent="1" source="YCrsAmIPGsnZ260KFvGg-8" target="YCrsAmIPGsnZ260KFvGg-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="200" />
+              <mxPoint x="240" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-8" value="数据采集与整理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCrsAmIPGsnZ260KFvGg-9" value="性能指标输出" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="200" y="640" width="80" height="40" as="geometry" />
