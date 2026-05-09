@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-23" value="调用本地的图片、视频，也可以打开摄像头进行实时检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="650" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
