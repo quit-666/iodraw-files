@@ -100,8 +100,8 @@
             <mxPoint x="920" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-28" value="在可视化界面右侧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="720" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
