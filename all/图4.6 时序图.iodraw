@@ -86,7 +86,7 @@
           <mxGeometry x="880" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-25" value="查看结果" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="880" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hh56FgW00mM8ynW_Fvdx-24" target="Hh56FgW00mM8ynW_Fvdx-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
