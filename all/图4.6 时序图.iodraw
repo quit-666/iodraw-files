@@ -19,10 +19,10 @@
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-4" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-5" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-5" value="前端界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Hh56FgW00mM8ynW_Fvdx-5">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hh56FgW00mM8ynW_Fvdx-4" target="Hh56FgW00mM8ynW_Fvdx-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="760" as="sourcePoint" />
             <mxPoint x="440" y="710" as="targetPoint" />
