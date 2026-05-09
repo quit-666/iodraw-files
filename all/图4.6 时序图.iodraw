@@ -103,7 +103,7 @@
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-28" value="进行检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="690" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-31" value="保存结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="Hh56FgW00mM8ynW_Fvdx-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="750" as="sourcePoint" />
             <mxPoint x="760" y="750" as="targetPoint" />
@@ -129,7 +129,10 @@
           <mxGeometry x="900" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-35" value="更换模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="735" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
