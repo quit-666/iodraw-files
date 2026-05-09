@@ -100,7 +100,7 @@
             <mxPoint x="880" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-28" value="在可视化界面右侧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-28" value="进行检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="690" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-31" value="保存结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
