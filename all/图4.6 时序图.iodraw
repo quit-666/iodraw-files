@@ -71,7 +71,7 @@
           <mxGeometry x="460" y="610" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-21" value="更换模型/退出" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="600" y="690" width="60" height="70" as="geometry" />
+          <mxGeometry x="440" y="680" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
