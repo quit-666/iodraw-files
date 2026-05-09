@@ -103,6 +103,12 @@
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-28" value="在可视化界面右侧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="690" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="730" as="sourcePoint" />
+            <mxPoint x="610" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
