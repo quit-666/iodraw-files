@@ -70,7 +70,7 @@
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-20" value="选择模型（一般调用保存的最佳模型）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="610" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-21" value="更换模型" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-21" value="更换模型/退出" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="680" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
