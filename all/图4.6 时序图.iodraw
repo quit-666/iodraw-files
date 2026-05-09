@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-9" value="可视化界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-10" value="可视化界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="540" width="80" height="40" as="geometry" />
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-10" value="选择测试模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
