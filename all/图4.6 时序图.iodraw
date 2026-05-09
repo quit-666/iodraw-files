@@ -109,10 +109,10 @@
             <mxPoint x="760" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-32" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-32" value="更换模型" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="780" as="sourcePoint" />
-            <mxPoint x="540" y="740" as="targetPoint" />
+            <mxPoint x="600" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
