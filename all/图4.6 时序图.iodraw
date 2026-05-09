@@ -79,7 +79,7 @@
             <mxPoint x="760" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-23" value="调用本地的图片、视频，也可以打开摄像头进行实时检测" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-23" value="调用本地的图片、视频，或打开摄像头进行实时检测" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="640" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-24" value="查看结果" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
