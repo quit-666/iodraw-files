@@ -83,9 +83,9 @@
           <mxGeometry x="610" y="640" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-24" value="选择图片/视频/摄像头" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="880" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-25" value="选择图片/视频/摄像头" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-25" value="查看结果" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="880" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
