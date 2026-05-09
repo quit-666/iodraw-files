@@ -105,8 +105,8 @@
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-31" value="保存结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="760" as="sourcePoint" />
-            <mxPoint x="440" y="760" as="targetPoint" />
+            <mxPoint x="1200" y="760" as="sourcePoint" />
+            <mxPoint x="760" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
