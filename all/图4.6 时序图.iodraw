@@ -103,9 +103,6 @@
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-28" value="在可视化界面右侧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="690" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-30" value="保存结果/更换模型/退出" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="880" y="720" width="60" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
