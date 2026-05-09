@@ -16,7 +16,7 @@
             <mxPoint x="440" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-4" value="可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-5" value="可视化界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,6 +27,12 @@
             <mxPoint x="390" y="760" as="sourcePoint" />
             <mxPoint x="440" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-9" value="可视化界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-10" value="可视化界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="540" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
