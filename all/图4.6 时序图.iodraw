@@ -123,12 +123,12 @@
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="630" as="sourcePoint" />
-            <mxPoint x="880.4678505345395" y="630" as="targetPoint" />
+            <mxPoint x="600" y="620" as="sourcePoint" />
+            <mxPoint x="880.4678505345395" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-23" value="读取模型权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="680" y="590" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
