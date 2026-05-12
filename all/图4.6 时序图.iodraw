@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-19" value="开始检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-23" value="读取模型权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="600" width="80" height="30" as="geometry" />
+          <mxGeometry x="680" y="600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-25" value="返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
