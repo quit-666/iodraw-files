@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-2" value="保存结果或退出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="320" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontFamily=宋体;" parent="1" source="O-5UnJHbUPvahxVirUYu-3" target="O-5UnJHbUPvahxVirUYu-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
