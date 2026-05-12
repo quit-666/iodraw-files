@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-19" value="开始检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-21" value="返回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-25" value="返回权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
