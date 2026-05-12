@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-4" value="后处理与结果解析NMS/置信度筛选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="320" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="380" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-5UnJHbUPvahxVirUYu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontFamily=宋体;" parent="1" source="O-5UnJHbUPvahxVirUYu-5" target="O-5UnJHbUPvahxVirUYu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
