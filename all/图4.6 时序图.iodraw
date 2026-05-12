@@ -88,9 +88,6 @@
             <mxPoint x="440" y="759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-11" value="退出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="730" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="620" as="sourcePoint" />
@@ -124,8 +121,8 @@
             <mxPoint x="440" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="680" width="60" height="30" as="geometry" />
+        <mxCell id="MbSYpFprWWrNXkXMkFGE-21" value="返回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
