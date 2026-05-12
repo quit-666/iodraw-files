@@ -82,7 +82,7 @@
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-23" value="调用本地的图片视频或打开摄像头进行实时检测" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="610" y="650" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-24" value="查看结果" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-24" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="840" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-25" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
@@ -93,18 +93,6 @@
             <mxPoint x="620" y="650" as="sourcePoint" />
             <mxPoint x="670" y="600" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-32" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="780" as="sourcePoint" />
-            <mxPoint x="600" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-35" value="更换模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="710" y="750" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-37" value="保存结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="790" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
