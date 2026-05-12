@@ -133,7 +133,7 @@
             <mxPoint x="880.4678505345395" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-23" value="读取权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MbSYpFprWWrNXkXMkFGE-23" value="读取模型权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
