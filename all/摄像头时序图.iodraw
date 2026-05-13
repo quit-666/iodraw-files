@@ -121,7 +121,7 @@
             <mxPoint x="560" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0igeO_iqNoAenLOulZbx-28" value="解析视频参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="0igeO_iqNoAenLOulZbx-28" value="启动摄像头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="460" y="680" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0igeO_iqNoAenLOulZbx-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
@@ -130,7 +130,7 @@
             <mxPoint x="440" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0igeO_iqNoAenLOulZbx-30" value="显示第一帧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="0igeO_iqNoAenLOulZbx-30" value="返回实时帧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="460" y="710" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0igeO_iqNoAenLOulZbx-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
