@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-2" value="模型训练流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="250" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontFamily=宋体;" parent="1" source="TK1oIUtfKdeGTjl-XWKr-3" target="TK1oIUtfKdeGTjl-XWKr-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-10" value="绘制检测框与标签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="370" y="580" width="80" height="40" as="geometry" />
+          <mxGeometry x="370" y="580" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontFamily=宋体;" parent="1" source="TK1oIUtfKdeGTjl-XWKr-11" target="TK1oIUtfKdeGTjl-XWKr-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="370" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-16" value="显示/保存检测结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="370" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="370" y="640" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
