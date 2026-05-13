@@ -166,8 +166,8 @@
             <mxPoint x="560" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQxLxj_3YLm31FzsKjOA-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-28" value="前向推理＋NMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="720" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
