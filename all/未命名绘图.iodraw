@@ -157,8 +157,8 @@
             <mxPoint x="440" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQxLxj_3YLm31FzsKjOA-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-26" value="返回下一帧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="720" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
