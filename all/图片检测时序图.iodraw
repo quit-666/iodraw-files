@@ -70,7 +70,7 @@
             <mxPoint x="600" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-14" value="加载模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="MbSYpFprWWrNXkXMkFGE-14" value="初始化界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="490" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-16" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
