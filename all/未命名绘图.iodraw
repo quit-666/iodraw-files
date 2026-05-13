@@ -196,6 +196,12 @@
         <mxCell id="IQxLxj_3YLm31FzsKjOA-34" value="显示结果帧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="880" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1020" as="sourcePoint" />
+            <mxPoint x="550" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
