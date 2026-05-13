@@ -94,7 +94,7 @@
         <mxCell id="IQxLxj_3YLm31FzsKjOA-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="640" as="sourcePoint" />
-            <mxPoint x="560" y="640" as="targetPoint" />
+            <mxPoint x="680" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IQxLxj_3YLm31FzsKjOA-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -212,7 +212,7 @@
           <mxGeometry x="350" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IQxLxj_3YLm31FzsKjOA-38" value="中断解码循环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="980" width="80" height="30" as="geometry" />
+          <mxGeometry x="460" y="920" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
