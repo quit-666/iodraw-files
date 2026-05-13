@@ -142,15 +142,6 @@
         <mxCell id="0igeO_iqNoAenLOulZbx-32" value="开始检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0igeO_iqNoAenLOulZbx-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="780" as="sourcePoint" />
-            <mxPoint x="560" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0igeO_iqNoAenLOulZbx-34" value="持续捕获帧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="460" y="750" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="0igeO_iqNoAenLOulZbx-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="810" as="sourcePoint" />
