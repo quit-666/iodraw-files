@@ -202,7 +202,7 @@
         <mxCell id="0igeO_iqNoAenLOulZbx-47" value="停止检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0igeO_iqNoAenLOulZbx-48" value="中断解码循环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="0igeO_iqNoAenLOulZbx-48" value="中断捕获循环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="460" y="920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0igeO_iqNoAenLOulZbx-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
