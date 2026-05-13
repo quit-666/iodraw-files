@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-12" value="结果处理模块" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="680" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-13" value="结果处理模块" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="640" y="520" width="80" height="40" as="geometry" />
@@ -106,7 +106,7 @@
         <mxCell id="YvZcmW6-K-O9smA0Vbcu-12" value="图片预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="465" y="670" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
+        <mxCell id="YvZcmW6-K-O9smA0Vbcu-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;entryX=0.69;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YvZcmW6-K-O9smA0Vbcu-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="720" as="sourcePoint" />
             <mxPoint x="720" y="720" as="targetPoint" />
