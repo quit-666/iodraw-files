@@ -89,7 +89,7 @@
           <mxGeometry x="350" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IQxLxj_3YLm31FzsKjOA-9" value="加载权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="610" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IQxLxj_3YLm31FzsKjOA-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -172,7 +172,7 @@
         <mxCell id="IQxLxj_3YLm31FzsKjOA-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="860" as="sourcePoint" />
-            <mxPoint x="680" y="860" as="targetPoint" />
+            <mxPoint x="800" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IQxLxj_3YLm31FzsKjOA-30" value="解析结果绘制框" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
