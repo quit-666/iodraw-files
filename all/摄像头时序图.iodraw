@@ -112,7 +112,7 @@
             <mxPoint x="440" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0igeO_iqNoAenLOulZbx-26" value="选择视频" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="0igeO_iqNoAenLOulZbx-26" value="打开摄像头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0igeO_iqNoAenLOulZbx-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
