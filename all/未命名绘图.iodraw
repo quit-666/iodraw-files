@@ -214,13 +214,13 @@
         <mxCell id="IQxLxj_3YLm31FzsKjOA-38" value="中断解码循环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="460" y="920" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IQxLxj_3YLm31FzsKjOA-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="1000" as="sourcePoint" />
             <mxPoint x="440" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQxLxj_3YLm31FzsKjOA-40" value="保存结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-40" value="保存结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="350" y="970" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
