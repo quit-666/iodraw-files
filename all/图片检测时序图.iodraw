@@ -122,7 +122,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YvZcmW6-K-O9smA0Vbcu-16" value="返回结果图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="70" height="30" as="geometry" />
+          <mxGeometry x="625" y="720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvZcmW6-K-O9smA0Vbcu-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="770" as="sourcePoint" />
+            <mxPoint x="590" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
