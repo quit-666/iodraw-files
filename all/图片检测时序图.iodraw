@@ -94,8 +94,8 @@
             <mxPoint x="440" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="650" width="60" height="30" as="geometry" />
+        <mxCell id="YvZcmW6-K-O9smA0Vbcu-10" value="选择图片并开始检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="650" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
