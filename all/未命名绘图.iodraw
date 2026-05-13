@@ -167,7 +167,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IQxLxj_3YLm31FzsKjOA-28" value="前向推理＋NMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="720" width="90" height="30" as="geometry" />
+          <mxGeometry x="455" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="760" as="sourcePoint" />
+            <mxPoint x="550" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
