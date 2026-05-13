@@ -55,15 +55,6 @@
         <mxCell id="MbSYpFprWWrNXkXMkFGE-3" value="启动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="350" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-4" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="680" as="sourcePoint" />
-            <mxPoint x="440" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-7" value="选数据源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="350" y="650" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="600" as="sourcePoint" />
@@ -82,26 +73,11 @@
         <mxCell id="MbSYpFprWWrNXkXMkFGE-17" value="加载配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="490" y="600" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="710" as="sourcePoint" />
-            <mxPoint x="439.77" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-29" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="580" as="sourcePoint" />
             <mxPoint x="440" y="580" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-30" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="730" as="sourcePoint" />
-            <mxPoint x="320" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-31" value="检测完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="350" y="700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-32" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,17 +85,11 @@
             <mxPoint x="440" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-33" value="保存结果（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="340" y="730" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-35" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="790" as="sourcePoint" />
             <mxPoint x="440" y="790" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-37" value="退出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="350" y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
