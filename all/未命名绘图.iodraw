@@ -82,7 +82,7 @@
             <mxPoint x="440" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQxLxj_3YLm31FzsKjOA-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-7" value="启动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
