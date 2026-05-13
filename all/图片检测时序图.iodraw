@@ -55,25 +55,16 @@
         <mxCell id="MbSYpFprWWrNXkXMkFGE-3" value="启动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="350" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="600" as="sourcePoint" />
-            <mxPoint x="600" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-16" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="630" as="sourcePoint" />
-            <mxPoint x="440" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MbSYpFprWWrNXkXMkFGE-17" value="加载配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="490" y="600" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MbSYpFprWWrNXkXMkFGE-29" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="580" as="sourcePoint" />
             <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvZcmW6-K-O9smA0Vbcu-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="600" as="sourcePoint" />
+            <mxPoint x="590" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
