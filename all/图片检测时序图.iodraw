@@ -31,7 +31,7 @@
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-9" value="模型管理器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hh56FgW00mM8ynW_Fvdx-10" value="模型管理器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;align=center;" parent="1" vertex="1">
+        <mxCell id="Hh56FgW00mM8ynW_Fvdx-10" value="模型推理引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hh56FgW00mM8ynW_Fvdx-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.482;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=宋体;fontSize=10;align=center;" parent="1" source="Hh56FgW00mM8ynW_Fvdx-9" target="Hh56FgW00mM8ynW_Fvdx-10" edge="1">
