@@ -52,33 +52,6 @@
             <mxPoint x="670" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="630" as="sourcePoint" />
-            <mxPoint x="560" y="629.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-4" value="加载权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="465" y="600" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="660" as="sourcePoint" />
-            <mxPoint x="440" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-6" value="加载完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="470" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="700" as="sourcePoint" />
-            <mxPoint x="560" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-12" value="图片预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="465" y="670" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YvZcmW6-K-O9smA0Vbcu-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;entryX=0.69;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="720" as="sourcePoint" />
@@ -87,24 +60,18 @@
         </mxCell>
         <mxCell id="YvZcmW6-K-O9smA0Vbcu-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="750" as="sourcePoint" />
+            <mxPoint x="580" y="753.5294117647059" as="sourcePoint" />
             <mxPoint x="560" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvZcmW6-K-O9smA0Vbcu-16" value="返回结果图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="580" y="720" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" edge="1">
+        <mxCell id="IQxLxj_3YLm31FzsKjOA-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="770" as="sourcePoint" />
-            <mxPoint x="440" y="770" as="targetPoint" />
+            <mxPoint x="680" y="750" as="sourcePoint" />
+            <mxPoint x="680" y="750" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-18" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="470" y="740" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YvZcmW6-K-O9smA0Vbcu-19" value="解析结果绘制框" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="550" y="690" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
