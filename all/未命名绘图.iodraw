@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IQxLxj_3YLm31FzsKjOA-34" value="显示结果帧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="880" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
