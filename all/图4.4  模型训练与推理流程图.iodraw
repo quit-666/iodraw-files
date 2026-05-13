@@ -46,7 +46,7 @@
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontFamily=宋体;" parent="1" source="TK1oIUtfKdeGTjl-XWKr-7" target="TK1oIUtfKdeGTjl-XWKr-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TK1oIUtfKdeGTjl-XWKr-7" value="加载预训练权重&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="TK1oIUtfKdeGTjl-XWKr-7" value="加载预训练权重&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=宋体;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK1oIUtfKdeGTjl-XWKr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontFamily=宋体;" parent="1" source="TK1oIUtfKdeGTjl-XWKr-8" target="TK1oIUtfKdeGTjl-XWKr-7" edge="1">
